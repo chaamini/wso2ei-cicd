@@ -7,7 +7,7 @@
                 <args/>
             </payloadFactory>
             <log description="Log message">
-                <property name="XXXX" value="This is a test"/>
+                <property name="XXXX" value="This is a test scenario"/>
             </log>
             <respond/>
         </inSequence>
